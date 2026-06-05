@@ -1,0 +1,501 @@
+﻿Order ID,Order Date,Sales Person,Region,Category,Sub-Category,Item Name,Store Name,Store Branch,Item left ,Item Sold,Cost Price/item,Sales,Profit
+ORD0001,10/26/2024,Neha Gupta,South,Electronics,Laptop,Laptop Dell,Croma,Delhi,76,8,58000,566080,102080
+ORD0002,4/10/2024,Neha Gupta,South,Electronics,Laptop,Laptop Dell,Croma,Kolkata,31,16,78500,1532320,276320
+ORD0003,5/11/2024,Rahul Verma,South,Furniture,Chair,Office Chair,IKEA,Bangalore,84,19,4917,111173.37,17750.37
+ORD0004,4/3/2024,Rahul Verma,East,Clothing,Men Wear,T-shirt,Pantaloons,Delhi,86,8,2994,27544.8,3592.8
+ORD0005,9/6/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,75,10,30820,366758,58558
+ORD0006,9/5/2024,Rohit Das,South,Furniture,Table,Wooden Table,IKEA,Bangalore,90,2,27560,65592.8,10472.8
+ORD0007,7/6/2024,Anjali Mehta,South,Furniture,Chair,Office Chair,IKEA,Hyderabad,73,16,1291,24580.64,3924.64
+ORD0008,8/17/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,15,2,1108,2548.4,332.4
+ORD0009,10/15/2024,Neha Gupta,West,Furniture,Table,Wooden Table,IKEA,Kolkata,60,4,11570,55073.2,8793.2
+ORD0010,11/24/2024,Neha Gupta,South,Furniture,Table,Wooden Table,IKEA,Delhi,64,2,15670,37294.6,5954.6
+ORD0011,6/2/2024,Rohit Das,East,Furniture,Table,Wooden Table,IKEA,Bangalore,28,1,45570,54228.3,8658.3
+ORD0012,8/13/2024,Anjali Mehta,South,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,82,12,1873,25847.4,3371.4
+ORD0013,6/28/2024,Rahul Verma,East,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,10,10,48980,597556,107756
+ORD0014,6/15/2024,Anjali Mehta,East,Furniture,Chair,Office Chair,IKEA,Kolkata,66,7,2808,23390.64,3734.64
+ORD0015,1/6/2024,Anjali Mehta,North,Electronics,Laptop,Laptop Dell,Croma,Delhi,21,8,33580,327740.8,59100.8
+ORD0016,5/20/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Delhi,45,5,31580,187901,30001
+ORD0017,7/5/2024,Rohit Das,South,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,88,9,33800,371124,66924
+ORD0018,2/11/2024,Rohit Das,North,Furniture,Table,Wooden Table,IKEA,Delhi,92,6,34150,243831,38931
+ORD0019,1/7/2024,Anjali Mehta,North,Clothing,Women Wear,Jeans,Pantaloons,Delhi,26,4,4572,21031.2,2743.2
+ORD0020,2/4/2024,Rohit Das,East,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,47,14,46400,792512,142912
+ORD0021,11/9/2024,Amit Sharma,North,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,55,14,47900,818132,147532
+ORD0022,5/28/2024,Anjali Mehta,East,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,31,15,89000,1628700,293700
+ORD0023,6/25/2024,Priya Singh,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,56,15,78900,1443870,260370
+ORD0024,1/15/2024,Amit Sharma,North,Furniture,Chair,Office Chair,IKEA,Bangalore,46,18,4344,93048.48,14856.48
+ORD0025,6/21/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,35,18,1400,28980,3780
+ORD0026,7/24/2024,Priya Singh,South,Furniture,Table,Wooden Table,IKEA,Delhi,82,5,34840,207298,33098
+ORD0027,7/15/2024,Anjali Mehta,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,35,13,98700,1565382,282282
+ORD0028,7/10/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Bangalore,30,12,34690,495373.2,79093.2
+ORD0029,3/2/2024,Rahul Verma,West,Furniture,Table,Wooden Table,IKEA,Delhi,69,18,30400,651168,103968
+ORD0030,11/2/2024,Neha Gupta,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,60,13,2755,42619.85,6804.85
+ORD0031,3/26/2024,Anjali Mehta,East,Electronics,Accessories,Samsung TV,Croma,Bangalore,34,12,44790,655725.6,118245.6
+ORD0032,9/24/2024,Anjali Mehta,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,21,6,38430,281307.6,50727.6
+ORD0033,12/14/2024,Amit Sharma,East,Furniture,Chair,Office Chair,IKEA,Delhi,40,15,3827,68311.95,10906.95
+ORD0034,3/8/2024,Priya Singh,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,100,14,258900,4422012,797412
+ORD0035,11/13/2024,Rohit Das,West,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,55,1,417600,509472,91872
+ORD0036,9/15/2024,Neha Gupta,East,Electronics,Accessories,Samsung TV,Croma,Mumbai,59,19,175200,4061136,732336
+ORD0037,1/2/2024,Neha Gupta,South,Electronics,Laptop,Laptop Dell,Croma,Delhi,98,16,45860,895187.2,161427.2
+ORD0038,9/21/2024,Neha Gupta,South,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,34,1,1170,1345.5,175.5
+ORD0039,11/14/2024,Rahul Verma,North,Furniture,Chair,Office Chair,IKEA,Delhi,18,16,3433,65364.32,10436.32
+ORD0040,5/16/2024,Rohit Das,West,Clothing,Women Wear,Jeans,Pantaloons,Kolkata,40,18,1300,26910,3510
+ORD0041,11/21/2024,Rohit Das,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,5,15,29150,533445,96195
+ORD0042,4/2/2024,Rohit Das,West,Electronics,Mobile,iPhone,Reliance Digital,Kolkata,62,2,451000,1100440,198440
+ORD0043,10/18/2024,Amit Sharma,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,66,6,358840,2626708.8,473668.8
+ORD0044,4/22/2024,Amit Sharma,North,Furniture,Chair,Office Chair,IKEA,Delhi,21,11,1105,14464.45,2309.45
+ORD0045,8/28/2024,Amit Sharma,West,Furniture,Table,Wooden Table,IKEA,Kolkata,61,19,15720,355429.2,56749.2
+ORD0046,7/11/2024,Amit Sharma,West,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,99,8,201400,1965664,354464
+ORD0047,10/28/2024,Rahul Verma,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,63,4,43580,207440.8,33120.8
+ORD0048,8/6/2024,Rahul Verma,East,Furniture,Table,Wooden Table,IKEA,Bangalore,82,2,17700,42126,6726
+ORD0049,12/8/2024,Amit Sharma,South,Clothing,Men Wear,T-shirt,Pantaloons,Delhi,75,3,919,3170.55,413.55
+ORD0050,5/6/2024,Anjali Mehta,South,Clothing,Women Wear,Jeans,Pantaloons,Delhi,63,4,3295,15157,1977
+ORD0051,11/19/2024,Rahul Verma,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,8,7,100256,856186.24,154394.24
+ORD0052,11/16/2024,Rohit Das,East,Furniture,Chair,Office Chair,IKEA,Mumbai,26,1,1515,1802.85,287.85
+ORD0053,2/26/2024,Anjali Mehta,West,Clothing,Men Wear,T-shirt,Big Bazaar,Hyderabad,92,6,3903,26930.7,3512.7
+ORD0054,5/2/2024,Amit Sharma,North,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,11,18,2863,59264.1,7730.1
+ORD0055,10/9/2024,Rahul Verma,West,Furniture,Table,Wooden Table,IKEA,Hyderabad,89,17,11960,241950.8,38630.8
+ORD0056,12/17/2024,Priya Singh,West,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,27,12,1268,17498.4,2282.4
+ORD0057,12/30/2024,Amit Sharma,North,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,60,12,156230,2287207.2,412447.2
+ORD0058,11/30/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,49,17,3918,76596.9,9990.9
+ORD0059,1/30/2024,Anjali Mehta,East,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,71,20,35420,864248,155848
+ORD0060,2/4/2024,Rohit Das,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,36,1,33270,40589.4,7319.4
+ORD0061,9/21/2024,Rohit Das,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,100,7,40360,344674.4,62154.4
+ORD0062,2/24/2024,Anjali Mehta,East,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,9,20,50600,1234640,222640
+ORD0063,3/30/2024,Rohit Das,West,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,56,2,182300,444812,80212
+ORD0064,10/11/2024,Rohit Das,North,Furniture,Table,Wooden Table,IKEA,Mumbai,51,6,34300,244902,39102
+ORD0065,5/3/2024,Rohit Das,South,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,41,14,2989,48122.9,6276.9
+ORD0066,9/19/2024,Priya Singh,East,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,54,2,145630,355337.2,64077.2
+ORD0067,7/20/2024,Amit Sharma,West,Furniture,Table,Wooden Table,IKEA,Bangalore,85,15,34250,611362.5,97612.5
+ORD0068,6/8/2024,Priya Singh,South,Clothing,Women Wear,Jeans,Pantaloons,Kolkata,81,18,4301,89030.7,11612.7
+ORD0069,11/15/2024,Rahul Verma,West,Furniture,Chair,Office Chair,IKEA,Hyderabad,52,15,1656,29559.6,4719.6
+ORD0070,11/6/2024,Rahul Verma,West,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,46,7,1100,8855,1155
+ORD0071,7/11/2024,Rohit Das,South,Clothing,Men Wear,T-shirt,Pantaloons,Bangalore,92,9,3516,36390.6,4746.6
+ORD0072,1/12/2024,Neha Gupta,East,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,33,6,3400,23460,3060
+ORD0073,8/11/2024,Neha Gupta,South,Clothing,Men Wear,T-shirt,Pantaloons,Delhi,27,1,2495,2869.25,374.25
+ORD0074,1/25/2024,Priya Singh,East,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,24,19,4641,101405.85,13226.85
+ORD0075,5/9/2024,Priya Singh,South,Furniture,Table,Wooden Table,IKEA,Hyderabad,100,16,38480,732659.2,116979.2
+ORD0076,4/23/2024,Rahul Verma,West,Electronics,Mobile,iPhone,Croma,Kolkata,91,11,154250,2070035,373285
+ORD0077,2/8/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,35,10,79800,973560,175560
+ORD0078,1/1/2024,Neha Gupta,South,Electronics,Mobile,iPhone,Croma,Kolkata,59,20,450600,10994640,1982640
+ORD0079,9/26/2024,Neha Gupta,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,78,1,24800,29512,4712
+ORD0080,3/4/2024,Anjali Mehta,East,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,72,15,45600,834480,150480
+ORD0081,12/14/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Bangalore,27,5,21380,127211,20311
+ORD0082,11/26/2024,Rohit Das,North,Electronics,Accessories,Samsung TV,Croma,Hyderabad,38,8,51700,504592,90992
+ORD0083,1/19/2024,Priya Singh,West,Electronics,Mobile,iPhone,Croma,Hyderabad,18,13,65200,1034072,186472
+ORD0084,9/2/2024,Rohit Das,South,Electronics,Accessories,Samsung TV,Reliance Digital,Delhi,96,11,40910,549012.2,99002.2
+ORD0085,7/15/2024,Anjali Mehta,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,15,9,47360,507225.6,80985.6
+ORD0086,11/6/2024,Priya Singh,West,Electronics,Accessories,Samsung TV,Reliance Digital,Delhi,3,9,42280,464234.4,83714.4
+ORD0087,7/12/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Hyderabad,81,2,24700,58786,9386
+ORD0088,11/13/2024,Neha Gupta,South,Clothing,Women Wear,Jeans,Pantaloons,Kolkata,64,2,4802,11044.6,1440.6
+ORD0089,12/31/2024,Rohit Das,East,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,51,7,4664,37545.2,4897.2
+ORD0090,12/30/2024,Rohit Das,East,Furniture,Table,Wooden Table,IKEA,Bangalore,20,1,45290,53895.1,8605.1
+ORD0091,10/30/2024,Rahul Verma,West,Clothing,Men Wear,T-shirt,Pantaloons,Delhi,0,12,3022,41703.6,5439.6
+ORD0092,3/14/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,16,12,21230,310807.2,56047.2
+ORD0093,1/7/2024,Neha Gupta,West,Electronics,Accessories,Samsung TV,Croma,Kolkata,24,16,186000,3630720,654720
+ORD0094,1/21/2024,Amit Sharma,West,Furniture,Chair,Office Chair,IKEA,Mumbai,15,9,1809,19374.39,3093.39
+ORD0095,9/28/2024,Rahul Verma,East,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,71,1,1266,1455.9,189.9
+ORD0096,3/12/2024,Rahul Verma,North,Electronics,Accessories,Samsung TV,Croma,Hyderabad,86,2,40480,98771.2,17811.2
+ORD0097,8/13/2024,Amit Sharma,North,Furniture,Chair,Office Chair,IKEA,Delhi,84,10,4270,50813,8113
+ORD0098,5/1/2024,Anjali Mehta,North,Furniture,Table,Wooden Table,IKEA,Kolkata,85,13,40380,624678.6,99738.6
+ORD0099,12/11/2024,Neha Gupta,North,Furniture,Table,Wooden Table,IKEA,Delhi,60,17,56500,1142995,182495
+ORD0100,7/29/2024,Anjali Mehta,East,Furniture,Table,Wooden Table,IKEA,Kolkata,43,2,32200,76636,12236
+ORD0101,12/6/2024,Priya Singh,South,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,43,20,3992,91816,11976
+ORD0102,3/21/2024,Rahul Verma,North,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,24,19,1200,26220,3420
+ORD0103,10/23/2024,Priya Singh,East,Furniture,Chair,Office Chair,IKEA,Bangalore,24,6,1432,10224.48,1632.48
+ORD0104,5/28/2024,Priya Singh,West,Furniture,Table,Wooden Table,IKEA,Bangalore,28,11,46530,609077.7,97247.7
+ORD0105,5/22/2024,Amit Sharma,West,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,25,20,10890,265716,47916
+ORD0106,4/29/2024,Neha Gupta,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,66,16,31510,599950.4,95790.4
+ORD0107,4/1/2024,Rohit Das,West,Electronics,Laptop,Laptop Dell,Croma,Delhi,19,8,41220,402307.2,72547.2
+ORD0108,6/12/2024,Neha Gupta,South,Clothing,Men Wear,T-shirt,Pantaloons,Bangalore,49,9,1844,19085.4,2489.4
+ORD0109,7/14/2024,Amit Sharma,West,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,39,1,1250,1437.5,187.5
+ORD0110,7/10/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Mumbai,55,7,18640,155271.2,24791.2
+ORD0111,2/11/2024,Neha Gupta,East,Furniture,Table,Wooden Table,IKEA,Kolkata,98,17,36700,742441,118541
+ORD0112,8/22/2024,Anjali Mehta,West,Furniture,Chair,Office Chair,IKEA,Hyderabad,14,6,2608,18621.12,2973.12
+ORD0113,1/15/2024,Anjali Mehta,West,Electronics,Mobile,iPhone,Croma,Delhi,60,13,75800,1202188,216788
+ORD0114,8/11/2024,Anjali Mehta,South,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,39,5,3135,18026.25,2351.25
+ORD0115,11/24/2024,Rohit Das,South,Clothing,Women Wear,Jeans,Big Bazaar,Hyderabad,27,6,4106,28331.4,3695.4
+ORD0116,5/11/2024,Amit Sharma,South,Clothing,Men Wear,T-shirt,Pantaloons,Mumbai,66,12,2127,29352.6,3828.6
+ORD0117,2/10/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,11,1,25000,30500,5500
+ORD0118,5/4/2024,Rahul Verma,East,Electronics,Mobile,iPhone,Croma,Mumbai,88,10,147250,1796450,323950
+ORD0119,3/20/2024,Rohit Das,East,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,41,12,2594,35797.2,4669.2
+ORD0120,5/16/2024,Rohit Das,North,Furniture,Chair,Office Chair,IKEA,Mumbai,55,20,1554,36985.2,5905.2
+ORD0121,5/3/2024,Rahul Verma,North,Clothing,Men Wear,T-shirt,Pantaloons,Mumbai,64,8,1150,10580,1380
+ORD0122,11/28/2024,Amit Sharma,North,Electronics,Mobile,iPhone,Croma,Kolkata,97,7,98260,839140.4,151320.4
+ORD0123,11/5/2024,Rohit Das,South,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,8,20,2739,62997,8217
+ORD0124,7/30/2024,Rahul Verma,East,Clothing,Men Wear,T-shirt,Pantaloons,Bangalore,14,16,650,11960,1560
+ORD0125,3/28/2024,Rahul Verma,South,Electronics,Mobile,iPhone,Reliance Digital,Hyderabad,63,16,136230,2659209.6,479529.6
+ORD0126,12/13/2024,Amit Sharma,North,Furniture,Table,Wooden Table,IKEA,Kolkata,66,13,13040,201728.8,32208.8
+ORD0127,2/22/2024,Amit Sharma,East,Clothing,Men Wear,T-shirt,Pantaloons,Delhi,99,15,1524,26289,3429
+ORD0128,9/30/2024,Neha Gupta,East,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,22,2,4417,10159.1,1325.1
+ORD0129,2/16/2024,Anjali Mehta,South,Electronics,Mobile,iPhone,Croma,Bangalore,100,12,145260,2126606.4,383486.4
+ORD0130,7/22/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,91,12,3109,42904.2,5596.2
+ORD0131,11/1/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,20,6,1150,7935,1035
+ORD0132,4/1/2024,Rohit Das,North,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,56,17,1350,26392.5,3442.5
+ORD0133,5/21/2024,Neha Gupta,West,Electronics,Laptop,Laptop Dell,Croma,Kolkata,60,5,48300,294630,53130
+ORD0134,4/30/2024,Rohit Das,North,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,30,13,2097,31350.15,4089.15
+ORD0135,12/29/2024,Rahul Verma,West,Clothing,Men Wear,T-shirt,Big Bazaar,Delhi,30,13,2720,40664,5304
+ORD0136,1/25/2024,Rohit Das,West,Electronics,Laptop,Laptop Dell,Croma,Bangalore,69,19,65470,1517594.6,273664.6
+ORD0137,6/3/2024,Amit Sharma,North,Electronics,Mobile,iPhone,Croma,Delhi,98,13,65200,1034072,186472
+ORD0138,6/4/2024,Amit Sharma,South,Clothing,Men Wear,T-shirt,Big Bazaar,Hyderabad,100,14,3265,52566.5,6856.5
+ORD0139,8/6/2024,Neha Gupta,East,Electronics,Mobile,iPhone,Croma,Delhi,63,9,141260,1551034.8,279694.8
+ORD0140,9/2/2024,Priya Singh,North,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,20,13,1761,26326.95,3433.95
+ORD0141,3/26/2024,Neha Gupta,North,Furniture,Chair,Office Chair,IKEA,Kolkata,19,11,4536,59376.24,9480.24
+ORD0142,7/18/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Croma,Delhi,65,6,34920,255614.4,46094.4
+ORD0143,6/23/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Croma,Bangalore,14,5,39450,240645,43395
+ORD0144,9/30/2024,Neha Gupta,East,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,11,2,1888,4342.4,566.4
+ORD0145,7/6/2024,Rohit Das,West,Electronics,Accessories,Samsung TV,Croma,Hyderabad,64,5,32830,200263,36113
+ORD0146,9/26/2024,Anjali Mehta,North,Furniture,Table,Wooden Table,IKEA,Bangalore,38,16,39700,755888,120688
+ORD0147,5/12/2024,Priya Singh,West,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,6,9,24580,269888.4,48668.4
+ORD0148,5/25/2024,Amit Sharma,South,Furniture,Chair,Office Chair,IKEA,Kolkata,94,7,4767,39709.11,6340.11
+ORD0149,3/27/2024,Rahul Verma,East,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,16,14,37290,636913.2,114853.2
+ORD0150,8/15/2024,Amit Sharma,East,Furniture,Chair,Office Chair,IKEA,Hyderabad,41,8,1712,16298.24,2602.24
+ORD0151,3/19/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Croma,Bangalore,10,10,32270,393694,70994
+ORD0152,5/14/2024,Anjali Mehta,West,Electronics,Mobile,iPhone,Croma,Delhi,89,1,145800,177876,32076
+ORD0153,7/2/2024,Anjali Mehta,East,Furniture,Table,Wooden Table,IKEA,Delhi,35,9,25660,274818.6,43878.6
+ORD0154,6/2/2024,Rahul Verma,North,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,53,20,1450,33350,4350
+ORD0155,8/12/2024,Anjali Mehta,South,Electronics,Accessories,Samsung TV,Croma,Bangalore,26,14,166000,2835280,511280
+ORD0156,4/16/2024,Anjali Mehta,East,Electronics,Mobile,iPhone,Croma,Kolkata,97,1,98700,120414,21714
+ORD0157,7/30/2024,Anjali Mehta,South,Electronics,Mobile,iPhone,Croma,Mumbai,24,8,465000,4538400,818400
+ORD0158,11/16/2024,Amit Sharma,East,Clothing,Women Wear,Jeans,Big Bazaar,Delhi,87,20,1500,34500,4500
+ORD0159,5/7/2024,Amit Sharma,East,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,96,6,1550,10695,1395
+ORD0160,6/9/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Bangalore,39,11,9910,129721.9,20711.9
+ORD0161,7/5/2024,Priya Singh,North,Furniture,Table,Wooden Table,IKEA,Hyderabad,25,7,48000,399840,63840
+ORD0162,1/19/2024,Rohit Das,West,Furniture,Chair,Office Chair,IKEA,Delhi,73,18,3590,76897.8,12277.8
+ORD0163,2/10/2024,Rohit Das,North,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,86,9,3598,37239.3,4857.3
+ORD0164,11/25/2024,Neha Gupta,East,Furniture,Chair,Office Chair,IKEA,Delhi,89,9,1277,13676.67,2183.67
+ORD0165,11/20/2024,Neha Gupta,East,Electronics,Mobile,iPhone,Reliance Digital,Delhi,86,15,156580,2865414,516714
+ORD0166,9/28/2024,Neha Gupta,West,Electronics,Mobile,iPhone,Reliance Digital,Delhi,76,13,158440,2512858.4,453138.4
+ORD0167,1/28/2024,Neha Gupta,North,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,40,11,249200,3344264,603064
+ORD0168,2/4/2024,Priya Singh,East,Furniture,Chair,Office Chair,IKEA,Delhi,70,7,2640,21991.2,3511.2
+ORD0169,8/22/2024,Priya Singh,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,52,20,2959,70424.2,11244.2
+ORD0170,10/1/2024,Priya Singh,North,Electronics,Mobile,iPhone,Reliance Digital,Mumbai,91,2,148370,362022.8,65282.8
+ORD0171,5/22/2024,Rohit Das,South,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,67,17,2461,48112.55,6275.55
+ORD0172,8/19/2024,Neha Gupta,East,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,10,11,2253,28500.45,3717.45
+ORD0173,11/10/2024,Anjali Mehta,South,Furniture,Table,Wooden Table,IKEA,Kolkata,0,17,20170,408039.1,65149.1
+ORD0174,9/29/2024,Priya Singh,West,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,78,16,3149,57941.6,7557.6
+ORD0175,10/30/2024,Amit Sharma,East,Electronics,Laptop,Laptop Dell,Croma,Mumbai,24,9,43960,482680.8,87040.8
+ORD0176,5/27/2024,Anjali Mehta,North,Clothing,Women Wear,Jeans,Big Bazaar,Kolkata,33,17,3428,67017.4,8741.4
+ORD0177,1/19/2024,Neha Gupta,South,Clothing,Men Wear,T-shirt,Pantaloons,Mumbai,49,16,1278,23515.2,3067.2
+ORD0178,5/11/2024,Anjali Mehta,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,67,4,27470,134053.6,24173.6
+ORD0179,7/21/2024,Amit Sharma,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,89,7,4715,39275.95,6270.95
+ORD0180,10/2/2024,Anjali Mehta,North,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,57,3,1125,3881.25,506.25
+ORD0181,3/20/2024,Anjali Mehta,North,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,55,2,155550,379542,68442
+ORD0182,11/26/2024,Rohit Das,West,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,48,20,25370,619028,111628
+ORD0183,1/18/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Mumbai,0,16,27780,528931.2,84451.2
+ORD0184,12/18/2024,Amit Sharma,East,Electronics,Mobile,iPhone,Reliance Digital,Mumbai,84,13,66660,1057227.6,190647.6
+ORD0185,11/27/2024,Anjali Mehta,East,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,82,10,38600,470920,84920
+ORD0186,10/6/2024,Priya Singh,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,72,1,40750,49715,8965
+ORD0187,3/16/2024,Priya Singh,East,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,0,2,148110,361388.4,65168.4
+ORD0188,11/29/2024,Priya Singh,East,Furniture,Table,Wooden Table,IKEA,Bangalore,10,12,27830,397412.4,63452.4
+ORD0189,10/26/2024,Priya Singh,West,Furniture,Chair,Office Chair,IKEA,Kolkata,95,8,4826,45943.52,7335.52
+ORD0190,10/31/2024,Anjali Mehta,South,Furniture,Chair,Office Chair,IKEA,Hyderabad,45,10,1200,14280,2280
+ORD0191,5/9/2024,Rahul Verma,South,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,66,8,545,5014,654
+ORD0192,3/12/2024,Amit Sharma,North,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,13,12,1135,15663,2043
+ORD0193,2/4/2024,Rohit Das,South,Furniture,Table,Wooden Table,IKEA,Delhi,67,8,10290,97960.8,15640.8
+ORD0194,3/7/2024,Amit Sharma,East,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,66,4,26600,129808,23408
+ORD0195,10/24/2024,Anjali Mehta,North,Electronics,Mobile,iPhone,Croma,Bangalore,36,5,142450,868945,156695
+ORD0196,6/17/2024,Rohit Das,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,90,11,58960,791243.2,142683.2
+ORD0197,8/29/2024,Priya Singh,West,Clothing,Women Wear,Jeans,Big Bazaar,Hyderabad,64,18,3502,72491.4,9455.4
+ORD0198,8/30/2024,Anjali Mehta,West,Electronics,Laptop,Laptop Dell,Croma,Delhi,60,20,40290,983076,177276
+ORD0199,9/25/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Croma,Mumbai,17,7,654440,5588917.6,1007837.6
+ORD0200,8/30/2024,Priya Singh,North,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,99,8,166200,1622112,292512
+ORD0201,2/17/2024,Rohit Das,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,50,13,4583,70899.01,11320.01
+ORD0202,7/9/2024,Neha Gupta,North,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,33,17,3819,74661.45,9738.45
+ORD0203,12/26/2024,Anjali Mehta,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,51,17,36400,754936,136136
+ORD0204,5/6/2024,Neha Gupta,East,Furniture,Chair,Office Chair,IKEA,Hyderabad,35,12,4691,66987.48,10695.48
+ORD0205,7/16/2024,Rohit Das,East,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,25,17,137200,2845528,513128
+ORD0206,8/2/2024,Rohit Das,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,42,6,45300,331596,59796
+ORD0207,2/8/2024,Rahul Verma,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Kolkata,6,17,30520,632984.8,114144.8
+ORD0208,1/9/2024,Priya Singh,West,Electronics,Accessories,Samsung TV,Reliance Digital,Delhi,78,17,28900,599386,108086
+ORD0209,12/16/2024,Priya Singh,East,Furniture,Chair,Office Chair,IKEA,Kolkata,75,6,1219,8703.66,1389.66
+ORD0210,11/7/2024,Rohit Das,East,Electronics,Mobile,iPhone,Reliance Digital,Hyderabad,59,16,359700,7021344,1266144
+ORD0211,4/14/2024,Anjali Mehta,West,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,3,5,4670,26852.5,3502.5
+ORD0212,1/12/2024,Rahul Verma,West,Furniture,Table,Wooden Table,IKEA,Delhi,44,11,14990,196219.1,31329.1
+ORD0213,8/24/2024,Priya Singh,North,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,75,19,1370,29934.5,3904.5
+ORD0214,2/15/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,53,5,41870,255407,46057
+ORD0215,6/12/2024,Neha Gupta,North,Furniture,Chair,Office Chair,IKEA,Delhi,22,18,1166,24975.72,3987.72
+ORD0216,5/2/2024,Amit Sharma,South,Electronics,Mobile,iPhone,Reliance Digital,Delhi,74,12,144440,2114601.6,381321.6
+ORD0217,9/13/2024,Neha Gupta,East,Furniture,Chair,Office Chair,IKEA,Bangalore,60,13,985,15237.95,2432.95
+ORD0218,3/26/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,7,13,36620,580793.2,104733.2
+ORD0219,4/18/2024,Priya Singh,West,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,15,7,535,4306.75,561.75
+ORD0220,9/7/2024,Rahul Verma,East,Furniture,Table,Wooden Table,IKEA,Delhi,22,4,15190,72304.4,11544.4
+ORD0221,2/10/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,21,20,37540,915976,165176
+ORD0222,1/30/2024,Rahul Verma,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,45,8,21540,210230.4,37910.4
+ORD0223,10/4/2024,Neha Gupta,East,Electronics,Laptop,Laptop Dell,Croma,Kolkata,25,18,44870,985345.2,177685.2
+ORD0224,7/17/2024,Rohit Das,East,Furniture,Table,Wooden Table,IKEA,Delhi,76,3,35270,125913.9,20103.9
+ORD0225,2/12/2024,Priya Singh,West,Furniture,Chair,Office Chair,IKEA,Hyderabad,53,18,3011,64495.62,10297.62
+ORD0226,2/22/2024,Neha Gupta,South,Electronics,Mobile,iPhone,Reliance Digital,Kolkata,61,1,144540,176338.8,31798.8
+ORD0227,4/16/2024,Anjali Mehta,West,Furniture,Chair,Office Chair,IKEA,Hyderabad,50,20,2083,49575.4,7915.4
+ORD0228,12/8/2024,Priya Singh,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,10,16,56666,1106120.32,199464.32
+ORD0229,4/25/2024,Neha Gupta,North,Furniture,Table,Wooden Table,IKEA,Delhi,43,5,11290,67175.5,10725.5
+ORD0230,7/23/2024,Neha Gupta,South,Electronics,Mobile,iPhone,Croma,Bangalore,39,2,139480,340331.2,61371.2
+ORD0231,5/14/2024,Neha Gupta,North,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,0,15,858,14800.5,1930.5
+ORD0232,3/4/2024,Anjali Mehta,West,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,91,12,3706,51142.8,6670.8
+ORD0233,12/20/2024,Amit Sharma,South,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,65,8,34170,333499.2,60139.2
+ORD0234,5/21/2024,Anjali Mehta,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,3,15,78950,1444785,260535
+ORD0235,3/19/2024,Neha Gupta,West,Clothing,Men Wear,T-shirt,Big Bazaar,Delhi,33,10,4337,49875.5,6505.5
+ORD0236,9/3/2024,Anjali Mehta,North,Furniture,Table,Wooden Table,IKEA,Kolkata,40,5,32140,191233,30533
+ORD0237,7/31/2024,Neha Gupta,South,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,89,9,4289,44391.15,5790.15
+ORD0238,2/15/2024,Rahul Verma,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,20,6,36200,258468,41268
+ORD0239,8/20/2024,Rohit Das,North,Electronics,Accessories,Samsung TV,Croma,Bangalore,8,19,28300,655994,118294
+ORD0240,3/25/2024,Neha Gupta,East,Clothing,Women Wear,Jeans,Big Bazaar,Hyderabad,30,20,2655,61065,7965
+ORD0241,9/11/2024,Priya Singh,West,Clothing,Men Wear,T-shirt,Big Bazaar,Hyderabad,6,2,3931,9041.3,1179.3
+ORD0242,1/16/2024,Anjali Mehta,East,Electronics,Laptop,Laptop Dell,Croma,Mumbai,67,20,38210,932324,168124
+ORD0243,4/25/2024,Amit Sharma,West,Clothing,Women Wear,Jeans,Pantaloons,Delhi,45,10,1861,21401.5,2791.5
+ORD0244,8/23/2024,Priya Singh,South,Electronics,Mobile,iPhone,Croma,Bangalore,40,13,138000,2188680,394680
+ORD0245,7/15/2024,Rahul Verma,North,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,38,6,1558,10750.2,1402.2
+ORD0246,11/17/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Croma,Bangalore,55,2,65555,159954.2,28844.2
+ORD0247,7/11/2024,Rahul Verma,East,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,62,11,665,8412.25,1097.25
+ORD0248,8/23/2024,Rahul Verma,North,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,27,10,4603,52934.5,6904.5
+ORD0249,4/6/2024,Anjali Mehta,North,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,73,2,147400,359656,64856
+ORD0250,3/12/2024,Rahul Verma,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,57,3,77770,284638.2,51328.2
+ORD0251,12/29/2024,Amit Sharma,South,Electronics,Accessories,Samsung TV,Croma,Bangalore,44,18,99700,2189412,394812
+ORD0252,9/26/2024,Amit Sharma,South,Furniture,Table,Wooden Table,IKEA,Bangalore,16,19,14530,328523.3,52453.3
+ORD0253,10/17/2024,Anjali Mehta,North,Electronics,Accessories,Samsung TV,Croma,Kolkata,80,3,38970,142630.2,25720.2
+ORD0254,1/5/2024,Rahul Verma,South,Furniture,Chair,Office Chair,IKEA,Bangalore,37,20,4095,97461,15561
+ORD0255,8/12/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Croma,Delhi,88,2,88880,216867.2,39107.2
+ORD0256,7/22/2024,Rohit Das,South,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,82,11,4043,51143.95,6670.95
+ORD0257,12/22/2024,Rohit Das,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,44,5,2424,14422.8,2302.8
+ORD0258,3/19/2024,Priya Singh,East,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,89,15,1659,28617.75,3732.75
+ORD0259,10/25/2024,Neha Gupta,South,Furniture,Chair,Office Chair,IKEA,Hyderabad,58,4,2991,14237.16,2273.16
+ORD0260,4/4/2024,Priya Singh,East,Electronics,Accessories,Samsung TV,Croma,Mumbai,88,8,162500,1586000,286000
+ORD0261,2/15/2024,Anjali Mehta,West,Electronics,Mobile,iPhone,Croma,Hyderabad,85,13,85200,1351272,243672
+ORD0262,11/11/2024,Rahul Verma,South,Furniture,Table,Wooden Table,IKEA,Hyderabad,73,17,18600,376278,60078
+ORD0263,3/20/2024,Rahul Verma,North,Furniture,Chair,Office Chair,IKEA,Kolkata,80,1,4485,5337.15,852.15
+ORD0264,2/29/2024,Priya Singh,South,Electronics,Laptop,Laptop Dell,Croma,Bangalore,51,13,99999,1585984.14,285997.14
+ORD0265,12/5/2024,Priya Singh,West,Electronics,Accessories,Samsung TV,Croma,Kolkata,11,14,92300,1576484,284284
+ORD0266,11/17/2024,Neha Gupta,South,Electronics,Accessories,Samsung TV,Croma,Delhi,92,14,161900,2765252,498652
+ORD0267,7/19/2024,Rohit Das,South,Electronics,Mobile,iPhone,Reliance Digital,Hyderabad,94,6,450200,3295464,594264
+ORD0268,7/13/2024,Anjali Mehta,West,Electronics,Laptop,Laptop Dell,Croma,Bangalore,51,11,23270,312283.4,56313.4
+ORD0269,12/14/2024,Amit Sharma,East,Clothing,Women Wear,Jeans,Big Bazaar,Kolkata,71,15,2410,41572.5,5422.5
+ORD0270,12/15/2024,Priya Singh,South,Electronics,Accessories,Samsung TV,Croma,Kolkata,85,2,60100,146644,26444
+ORD0271,6/16/2024,Rahul Verma,East,Electronics,Mobile,iPhone,Croma,Delhi,7,2,69000,168360,30360
+ORD0272,10/14/2024,Neha Gupta,North,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,96,16,4520,83168,10848
+ORD0273,7/10/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,36,14,45600,759696,121296
+ORD0274,4/30/2024,Neha Gupta,South,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,12,6,780,5382,702
+ORD0275,12/4/2024,Neha Gupta,East,Clothing,Women Wear,Jeans,Big Bazaar,Kolkata,53,15,3118,53785.5,7015.5
+ORD0276,6/30/2024,Neha Gupta,West,Electronics,Laptop,Laptop Dell,Croma,Bangalore,61,8,43230,421924.8,76084.8
+ORD0277,4/4/2024,Priya Singh,South,Electronics,Accessories,Samsung TV,Croma,Hyderabad,47,9,31250,343125,61875
+ORD0278,5/10/2024,Rahul Verma,North,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,88,11,3796,48019.4,6263.4
+ORD0279,12/13/2024,Neha Gupta,West,Clothing,Men Wear,T-shirt,Big Bazaar,Delhi,43,1,1678,1929.7,251.7
+ORD0280,1/5/2024,Rohit Das,East,Furniture,Chair,Office Chair,IKEA,Kolkata,81,6,2068,14765.52,2357.52
+ORD0281,12/13/2024,Amit Sharma,South,Furniture,Table,Wooden Table,IKEA,Mumbai,79,12,23290,332581.2,53101.2
+ORD0282,8/22/2024,Priya Singh,East,Clothing,Men Wear,T-shirt,Pantaloons,Bangalore,73,11,1113,14079.45,1836.45
+ORD0283,8/14/2024,Amit Sharma,East,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,64,17,1369,26763.95,3490.95
+ORD0284,5/6/2024,Rohit Das,West,Electronics,Accessories,Samsung TV,Croma,Kolkata,13,2,26210,63952.4,11532.4
+ORD0285,3/10/2024,Priya Singh,South,Electronics,Laptop,Laptop Dell,Croma,Kolkata,26,7,26040,222381.6,40101.6
+ORD0286,12/22/2024,Rahul Verma,West,Electronics,Mobile,iPhone,Croma,Mumbai,35,9,145720,1600005.6,288525.6
+ORD0287,11/28/2024,Amit Sharma,South,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,2,8,30200,294752,53152
+ORD0288,11/28/2024,Rahul Verma,South,Clothing,Women Wear,Jeans,Big Bazaar,Hyderabad,4,9,1165,12057.75,1572.75
+ORD0289,7/22/2024,Priya Singh,East,Electronics,Laptop,Laptop Dell,Croma,Delhi,92,10,78900,962580,173580
+ORD0290,1/9/2024,Amit Sharma,South,Furniture,Chair,Office Chair,IKEA,Mumbai,57,7,2488,20725.04,3309.04
+ORD0291,4/8/2024,Rahul Verma,North,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,35,11,32790,440041.8,79351.8
+ORD0292,4/22/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Kolkata,33,10,4151,47736.5,6226.5
+ORD0293,1/18/2024,Priya Singh,West,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,12,12,4864,67123.2,8755.2
+ORD0294,10/22/2024,Anjali Mehta,East,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,89,8,1800,16560,2160
+ORD0295,4/18/2024,Amit Sharma,West,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,13,6,785,5416.5,706.5
+ORD0296,4/26/2024,Anjali Mehta,South,Electronics,Mobile,iPhone,Croma,Mumbai,79,14,95000,1622600,292600
+ORD0297,8/16/2024,Amit Sharma,North,Furniture,Table,Wooden Table,IKEA,Kolkata,15,18,31300,670446,107046
+ORD0298,2/19/2024,Rohit Das,North,Furniture,Table,Wooden Table,IKEA,Mumbai,50,13,30000,464100,74100
+ORD0299,3/15/2024,Rahul Verma,West,Furniture,Table,Wooden Table,IKEA,Delhi,51,13,65550,1014058.5,161908.5
+ORD0300,11/17/2024,Rohit Das,East,Furniture,Chair,Office Chair,IKEA,Hyderabad,28,12,4259,60818.52,9710.52
+ORD0301,5/6/2024,Rahul Verma,South,Clothing,Men Wear,T-shirt,Pantaloons,Mumbai,83,5,3271,18808.25,2453.25
+ORD0302,10/9/2024,Rahul Verma,North,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,58,8,3315,30498,3978
+ORD0303,8/14/2024,Anjali Mehta,South,Electronics,Mobile,iPhone,Croma,Bangalore,24,15,145000,2653500,478500
+ORD0304,12/1/2024,Priya Singh,North,Electronics,Accessories,Samsung TV,Croma,Kolkata,97,15,27230,498309,89859
+ORD0305,2/19/2024,Rohit Das,South,Furniture,Table,Wooden Table,IKEA,Hyderabad,16,8,12860,122427.2,19547.2
+ORD0306,9/10/2024,Amit Sharma,East,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,94,4,4216,19393.6,2529.6
+ORD0307,6/13/2024,Rahul Verma,West,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,34,12,4042,55779.6,7275.6
+ORD0308,3/12/2024,Neha Gupta,South,Electronics,Laptop,Laptop Dell,Croma,Delhi,23,4,49240,240291.2,43331.2
+ORD0309,1/16/2024,Amit Sharma,West,Electronics,Mobile,iPhone,Croma,Delhi,4,20,445901,10879984.4,1961964.4
+ORD0310,8/4/2024,Amit Sharma,South,Furniture,Table,Wooden Table,IKEA,Kolkata,97,17,13300,269059,42959
+ORD0311,2/2/2024,Rahul Verma,South,Clothing,Women Wear,Jeans,Pantaloons,Kolkata,66,8,1987,18280.4,2384.4
+ORD0312,5/22/2024,Rahul Verma,North,Furniture,Table,Wooden Table,IKEA,Kolkata,49,3,28610,102137.7,16307.7
+ORD0313,8/10/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,23,10,890,10235,1335
+ORD0314,2/15/2024,Neha Gupta,North,Furniture,Table,Wooden Table,IKEA,Delhi,89,5,48850,290657.5,46407.5
+ORD0315,11/5/2024,Rohit Das,North,Electronics,Mobile,iPhone,Croma,Mumbai,13,8,146000,1424960,256960
+ORD0316,10/25/2024,Amit Sharma,East,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,95,5,980,5635,735
+ORD0317,1/16/2024,Neha Gupta,East,Electronics,Laptop,Laptop Dell,Croma,Kolkata,42,20,45888,1119667.2,201907.2
+ORD0318,12/11/2024,Amit Sharma,North,Electronics,Mobile,iPhone,Croma,Mumbai,82,7,147000,1255380,226380
+ORD0319,4/13/2024,Amit Sharma,North,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,77,19,4467,97603.95,12730.95
+ORD0320,3/2/2024,Amit Sharma,West,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,81,7,999,8041.95,1048.95
+ORD0321,9/1/2024,Amit Sharma,West,Clothing,Women Wear,Jeans,Pantaloons,Kolkata,71,20,1282,29486,3846
+ORD0322,8/12/2024,Neha Gupta,North,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,16,4,665025,3245322,585222
+ORD0323,12/13/2024,Neha Gupta,West,Electronics,Accessories,Samsung TV,Croma,Bangalore,3,4,26890,131223.2,23663.2
+ORD0324,12/4/2024,Rahul Verma,North,Furniture,Table,Wooden Table,IKEA,Bangalore,32,1,15190,18076.1,2886.1
+ORD0325,3/1/2024,Amit Sharma,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,87,17,223365,4632590.1,835385.1
+ORD0326,1/11/2024,Anjali Mehta,West,Furniture,Chair,Office Chair,IKEA,Mumbai,52,11,964,12618.76,2014.76
+ORD0327,6/13/2024,Rohit Das,South,Clothing,Women Wear,Jeans,Pantaloons,Mumbai,52,10,904,10396,1356
+ORD0328,11/19/2024,Priya Singh,East,Electronics,Mobile,iPhone,Reliance Digital,Kolkata,77,20,146210,3567524,643324
+ORD0329,7/29/2024,Amit Sharma,West,Clothing,Men Wear,T-shirt,Pantaloons,Hyderabad,70,10,580,6670,870
+ORD0330,8/22/2024,Rohit Das,North,Clothing,Women Wear,Jeans,Big Bazaar,Hyderabad,87,15,4136,71346,9306
+ORD0331,9/14/2024,Neha Gupta,North,Electronics,Mobile,iPhone,Reliance Digital,Delhi,69,1,157000,191540,34540
+ORD0332,8/28/2024,Rohit Das,East,Clothing,Men Wear,T-shirt,Pantaloons,Mumbai,51,5,840,4830,630
+ORD0333,3/10/2024,Neha Gupta,South,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,67,12,1226,16918.8,2206.8
+ORD0334,2/5/2024,Neha Gupta,North,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,63,12,1404,19375.2,2527.2
+ORD0335,7/2/2024,Anjali Mehta,West,Clothing,Women Wear,Jeans,Big Bazaar,Hyderabad,31,12,1025,14145,1845
+ORD0336,6/27/2024,Anjali Mehta,West,Electronics,Mobile,iPhone,Reliance Digital,Hyderabad,26,2,67000,163480,29480
+ORD0337,6/26/2024,Anjali Mehta,East,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,48,20,28560,696864,125664
+ORD0338,2/22/2024,Priya Singh,South,Clothing,Men Wear,T-shirt,Big Bazaar,Delhi,31,3,4675,16128.75,2103.75
+ORD0339,7/11/2024,Neha Gupta,North,Furniture,Table,Wooden Table,IKEA,Mumbai,9,9,32670,349895.7,55865.7
+ORD0340,4/22/2024,Amit Sharma,South,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,47,3,31540,115436.4,20816.4
+ORD0341,1/13/2024,Priya Singh,West,Furniture,Table,Wooden Table,IKEA,Delhi,3,9,39920,427543.2,68263.2
+ORD0342,10/2/2024,Neha Gupta,South,Furniture,Table,Wooden Table,IKEA,Kolkata,72,5,42310,251744.5,40194.5
+ORD0343,4/19/2024,Neha Gupta,North,Furniture,Table,Wooden Table,IKEA,Bangalore,19,5,34250,203787.5,32537.5
+ORD0344,2/21/2024,Rahul Verma,South,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,31,11,609,7703.85,1004.85
+ORD0345,10/21/2024,Rahul Verma,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,3,1,100065,122079.3,22014.3
+ORD0346,5/14/2024,Amit Sharma,North,Furniture,Table,Wooden Table,IKEA,Kolkata,31,5,15860,94367,15067
+ORD0347,6/13/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,56,3,2860,9867,1287
+ORD0348,6/30/2024,Anjali Mehta,South,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,55,13,760,11362,1482
+ORD0349,3/6/2024,Rahul Verma,West,Electronics,Mobile,iPhone,Croma,Kolkata,65,13,142130,2254181.8,406491.8
+ORD0350,4/5/2024,Anjali Mehta,South,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,92,4,26360,128636.8,23196.8
+ORD0351,4/16/2024,Rahul Verma,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,8,10,1100,13090,2090
+ORD0352,9/5/2024,Neha Gupta,East,Furniture,Table,Wooden Table,IKEA,Delhi,80,16,22810,434302.4,69342.4
+ORD0353,10/29/2024,Priya Singh,North,Furniture,Chair,Office Chair,IKEA,Kolkata,85,14,1000,16660,2660
+ORD0354,3/4/2024,Anjali Mehta,South,Electronics,Mobile,iPhone,Reliance Digital,Mumbai,23,17,68000,1410320,254320
+ORD0355,5/25/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Bangalore,88,12,47250,674730,107730
+ORD0356,1/8/2024,Neha Gupta,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,78,15,23440,428952,77352
+ORD0357,10/2/2024,Priya Singh,West,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,77,5,1095,6296.25,821.25
+ORD0358,2/17/2024,Rohit Das,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,96,3,78925,288865.5,52090.5
+ORD0359,12/7/2024,Anjali Mehta,North,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,40,20,30710,749324,135124
+ORD0360,12/8/2024,Neha Gupta,North,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,97,5,181600,1107760,199760
+ORD0361,8/10/2024,Priya Singh,West,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,61,11,741,9373.65,1222.65
+ORD0362,5/10/2024,Anjali Mehta,West,Furniture,Chair,Office Chair,IKEA,Delhi,91,17,3205,64837.15,10352.15
+ORD0363,9/19/2024,Rohit Das,North,Electronics,Accessories,Samsung TV,Reliance Digital,Bangalore,15,7,111800,954772,172172
+ORD0364,9/7/2024,Rohit Das,West,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,75,8,2214,20368.8,2656.8
+ORD0365,8/11/2024,Anjali Mehta,North,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,57,5,2103,12092.25,1577.25
+ORD0366,2/16/2024,Neha Gupta,West,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,72,10,45900,559980,100980
+ORD0367,7/22/2024,Neha Gupta,North,Clothing,Men Wear,T-shirt,Big Bazaar,Delhi,79,6,3049,21038.1,2744.1
+ORD0368,12/15/2024,Rohit Das,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Delhi,37,4,98700,481656,86856
+ORD0369,2/14/2024,Rohit Das,South,Electronics,Mobile,iPhone,Croma,Mumbai,98,1,69500,84790,15290
+ORD0370,10/25/2024,Rohit Das,South,Furniture,Chair,Office Chair,IKEA,Kolkata,39,2,3354,7982.52,1274.52
+ORD0371,9/8/2024,Priya Singh,East,Clothing,Women Wear,Jeans,Pantaloons,Delhi,17,10,704,8096,1056
+ORD0372,12/23/2024,Amit Sharma,South,Furniture,Chair,Office Chair,IKEA,Kolkata,27,9,1300,13923,2223
+ORD0373,4/25/2024,Rohit Das,North,Furniture,Table,Wooden Table,IKEA,Hyderabad,66,18,19670,421331.4,67271.4
+ORD0374,10/13/2024,Amit Sharma,South,Furniture,Table,Wooden Table,IKEA,Mumbai,36,1,20480,24371.2,3891.2
+ORD0375,4/18/2024,Priya Singh,West,Clothing,Men Wear,T-shirt,Big Bazaar,Hyderabad,60,17,2813,54994.15,7173.15
+ORD0376,1/27/2024,Neha Gupta,South,Furniture,Chair,Office Chair,IKEA,Mumbai,0,12,1550,22134,3534
+ORD0377,2/3/2024,Neha Gupta,East,Clothing,Men Wear,T-shirt,Big Bazaar,Delhi,97,8,3129,28786.8,3754.8
+ORD0378,10/1/2024,Priya Singh,West,Electronics,Mobile,iPhone,Croma,Delhi,87,6,138730,1015503.6,183123.6
+ORD0379,5/21/2024,Amit Sharma,South,Furniture,Chair,Office Chair,IKEA,Hyderabad,42,17,1723,34856.29,5565.29
+ORD0380,7/19/2024,Rahul Verma,South,Furniture,Chair,Office Chair,IKEA,Kolkata,94,12,2707,38655.96,6171.96
+ORD0381,1/4/2024,Rahul Verma,North,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,38,8,124100,1211216,218416
+ORD0382,6/14/2024,Rahul Verma,South,Electronics,Mobile,iPhone,Reliance Digital,Mumbai,35,17,145690,3021610.6,544880.6
+ORD0383,2/20/2024,Rahul Verma,North,Furniture,Chair,Office Chair,IKEA,Kolkata,13,13,3600,55692,8892
+ORD0384,4/7/2024,Amit Sharma,West,Clothing,Women Wear,Jeans,Pantaloons,Delhi,1,9,3965,41037.75,5352.75
+ORD0385,7/30/2024,Priya Singh,North,Furniture,Chair,Office Chair,IKEA,Kolkata,63,19,4485,101405.85,16190.85
+ORD0386,10/14/2024,Neha Gupta,East,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,10,17,1146,22404.3,2922.3
+ORD0387,9/6/2024,Anjali Mehta,North,Electronics,Mobile,iPhone,Reliance Digital,Mumbai,83,1,148500,181170,32670
+ORD0388,2/12/2024,Anjali Mehta,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,45,15,12380,220983,35283
+ORD0389,12/26/2024,Priya Singh,North,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,3,16,158400,3091968,557568
+ORD0390,12/11/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Delhi,93,19,34110,771227.1,123137.1
+ORD0391,10/18/2024,Neha Gupta,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,56,13,3840,59404.8,9484.8
+ORD0392,9/1/2024,Priya Singh,South,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,69,20,637,14651,1911
+ORD0393,9/15/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Croma,Mumbai,24,1,300300,366366,66066
+ORD0394,10/30/2024,Neha Gupta,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Kolkata,48,6,55510,406333.2,73273.2
+ORD0395,8/1/2024,Amit Sharma,South,Clothing,Women Wear,Jeans,Pantaloons,Delhi,62,4,2309,10621.4,1385.4
+ORD0396,6/17/2024,Rohit Das,East,Electronics,Mobile,iPhone,Reliance Digital,Kolkata,4,13,98700,1565382,282282
+ORD0397,3/20/2024,Rohit Das,East,Electronics,Mobile,iPhone,Croma,Bangalore,51,16,78900,1540128,277728
+ORD0398,4/18/2024,Neha Gupta,North,Electronics,Mobile,iPhone,Reliance Digital,Bangalore,53,8,138570,1352443.2,243883.2
+ORD0399,4/4/2024,Anjali Mehta,East,Electronics,Mobile,iPhone,Reliance Digital,Hyderabad,10,20,145200,3542880,638880
+ORD0400,1/2/2024,Rahul Verma,South,Electronics,Accessories,Samsung TV,Croma,Kolkata,66,6,41300,302316,54516
+ORD0401,10/13/2024,Priya Singh,South,Furniture,Chair,Office Chair,IKEA,Bangalore,40,18,1893,40548.06,6474.06
+ORD0402,8/28/2024,Neha Gupta,North,Electronics,Mobile,iPhone,Croma,Bangalore,80,6,87900,643428,116028
+ORD0403,8/8/2024,Amit Sharma,West,Electronics,Accessories,Samsung TV,Croma,Delhi,100,19,44590,1033596.2,186386.2
+ORD0404,2/1/2024,Priya Singh,North,Clothing,Men Wear,T-shirt,Pantaloons,Delhi,66,19,3883,84843.55,11066.55
+ORD0405,3/17/2024,Neha Gupta,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,37,13,45600,723216,130416
+ORD0406,7/9/2024,Rohit Das,North,Furniture,Table,Wooden Table,IKEA,Mumbai,72,11,28170,368745.3,58875.3
+ORD0407,12/31/2024,Rohit Das,North,Furniture,Table,Wooden Table,IKEA,Bangalore,99,10,28450,338555,54055
+ORD0408,10/2/2024,Amit Sharma,North,Furniture,Table,Wooden Table,IKEA,Mumbai,49,2,75000,178500,28500
+ORD0409,12/7/2024,Priya Singh,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Kolkata,73,1,256033,312360.26,56327.26
+ORD0410,1/3/2024,Anjali Mehta,North,Electronics,Laptop,Laptop Dell,Reliance Digital,Bangalore,61,5,292300,1783030,321530
+ORD0411,1/19/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Kolkata,98,4,41570,197873.2,31593.2
+ORD0412,6/13/2024,Rohit Das,East,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,1,11,62700,841434,151734
+ORD0413,6/5/2024,Neha Gupta,North,Electronics,Mobile,iPhone,Croma,Delhi,97,1,145300,177266,31966
+ORD0414,10/24/2024,Amit Sharma,North,Furniture,Chair,Office Chair,IKEA,Mumbai,30,9,1660,17778.6,2838.6
+ORD0415,5/2/2024,Neha Gupta,North,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,91,7,49010,418545.4,75475.4
+ORD0416,6/27/2024,Anjali Mehta,South,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,36,17,1907,37281.85,4862.85
+ORD0417,5/21/2024,Priya Singh,West,Electronics,Mobile,iPhone,Reliance Digital,Kolkata,89,14,142500,2433900,438900
+ORD0418,9/15/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,46,18,308200,6768072,1220472
+ORD0419,12/30/2024,Amit Sharma,East,Clothing,Men Wear,T-shirt,Pantaloons,Bangalore,12,15,550,9487.5,1237.5
+ORD0420,12/12/2024,Priya Singh,North,Electronics,Mobile,iPhone,Croma,Mumbai,58,11,143500,1925770,347270
+ORD0421,6/21/2024,Priya Singh,West,Electronics,Accessories,Samsung TV,Croma,Delhi,85,8,34970,341307.2,61547.2
+ORD0422,7/8/2024,Rahul Verma,South,Electronics,Accessories,Samsung TV,Croma,Hyderabad,76,11,27790,372941.8,67251.8
+ORD0423,2/14/2024,Rahul Verma,North,Clothing,Women Wear,Jeans,Big Bazaar,Delhi,24,19,1641,35855.85,4676.85
+ORD0424,4/12/2024,Rahul Verma,North,Furniture,Table,Wooden Table,IKEA,Bangalore,73,8,49830,474381.6,75741.6
+ORD0425,11/29/2024,Rahul Verma,North,Clothing,Men Wear,T-shirt,Big Bazaar,Hyderabad,86,2,1100,2530,330
+ORD0426,4/7/2024,Amit Sharma,West,Electronics,Laptop,Laptop Dell,Croma,Delhi,77,13,244500,3877770,699270
+ORD0427,10/23/2024,Amit Sharma,South,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,10,20,4620,106260,13860
+ORD0428,6/21/2024,Priya Singh,North,Furniture,Table,Wooden Table,IKEA,Mumbai,53,5,38460,228837,36537
+ORD0429,9/28/2024,Rahul Verma,East,Clothing,Men Wear,T-shirt,Big Bazaar,Mumbai,45,2,2771,6373.3,831.3
+ORD0430,5/24/2024,Amit Sharma,West,Clothing,Men Wear,T-shirt,Big Bazaar,Kolkata,38,18,561,11612.7,1514.7
+ORD0431,12/25/2024,Rohit Das,East,Furniture,Table,Wooden Table,IKEA,Delhi,60,13,38040,588478.8,93958.8
+ORD0432,8/16/2024,Anjali Mehta,South,Clothing,Women Wear,Jeans,Pantaloons,Delhi,100,10,878,10097,1317
+ORD0433,1/23/2024,Priya Singh,South,Electronics,Laptop,Laptop Dell,Croma,Mumbai,46,18,411300,9032148,1628748
+ORD0434,3/24/2024,Amit Sharma,East,Furniture,Table,Wooden Table,IKEA,Mumbai,91,3,29130,103994.1,16604.1
+ORD0435,1/8/2024,Amit Sharma,South,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,14,17,27620,572838.8,103298.8
+ORD0436,3/31/2024,Neha Gupta,South,Furniture,Chair,Office Chair,IKEA,Delhi,97,11,1942,25420.78,4058.78
+ORD0437,8/30/2024,Priya Singh,South,Electronics,Laptop,Laptop Dell,Croma,Kolkata,20,8,52555,512936.8,92496.8
+ORD0438,6/2/2024,Priya Singh,North,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,65,4,2270,10442,1362
+ORD0439,6/16/2024,Amit Sharma,East,Clothing,Women Wear,Jeans,Big Bazaar,Bangalore,22,20,4374,100602,13122
+ORD0440,5/10/2024,Rohit Das,West,Electronics,Accessories,Samsung TV,Reliance Digital,Delhi,47,15,35820,655506,118206
+ORD0441,9/3/2024,Amit Sharma,West,Furniture,Chair,Office Chair,IKEA,Mumbai,45,1,4689,5579.91,890.91
+ORD0442,4/21/2024,Rahul Verma,South,Electronics,Accessories,Samsung TV,Croma,Kolkata,46,11,183400,2461228,443828
+ORD0443,11/1/2024,Rahul Verma,North,Furniture,Chair,Office Chair,IKEA,Hyderabad,8,4,2469,11752.44,1876.44
+ORD0444,11/12/2024,Neha Gupta,East,Clothing,Women Wear,Jeans,Big Bazaar,Delhi,1,18,880,18216,2376
+ORD0445,11/15/2024,Anjali Mehta,South,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,34,6,4449,30698.1,4004.1
+ORD0446,8/15/2024,Rohit Das,North,Furniture,Chair,Office Chair,IKEA,Delhi,31,12,3995,57048.6,9108.6
+ORD0447,6/4/2024,Priya Singh,North,Furniture,Chair,Office Chair,IKEA,Mumbai,34,15,3099,55317.15,8832.15
+ORD0448,4/18/2024,Amit Sharma,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,99,20,489800,11951120,2155120
+ORD0449,4/24/2024,Anjali Mehta,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,26,14,19200,319872,51072
+ORD0450,11/17/2024,Amit Sharma,West,Electronics,Mobile,iPhone,Croma,Mumbai,24,17,146400,3036336,547536
+ORD0451,12/30/2024,Anjali Mehta,North,Furniture,Chair,Office Chair,IKEA,Kolkata,95,7,3145,26197.85,4182.85
+ORD0452,5/2/2024,Anjali Mehta,South,Electronics,Mobile,iPhone,Croma,Delhi,68,19,143640,3329575.2,600415.2
+ORD0453,12/9/2024,Rohit Das,East,Furniture,Table,Wooden Table,IKEA,Delhi,32,17,41020,829834.6,132494.6
+ORD0454,11/18/2024,Rohit Das,South,Clothing,Men Wear,T-shirt,Pantaloons,Kolkata,3,4,1000,4600,600
+ORD0455,8/4/2024,Amit Sharma,East,Furniture,Chair,Office Chair,IKEA,Delhi,43,12,4823,68872.44,10996.44
+ORD0456,2/2/2024,Neha Gupta,North,Furniture,Table,Wooden Table,IKEA,Delhi,11,7,32800,273224,43624
+ORD0457,3/14/2024,Priya Singh,East,Electronics,Accessories,Samsung TV,Croma,Hyderabad,43,6,39500,289140,52140
+ORD0458,6/30/2024,Rahul Verma,East,Electronics,Accessories,Samsung TV,Croma,Delhi,77,7,38840,331693.6,59813.6
+ORD0459,9/17/2024,Anjali Mehta,East,Furniture,Chair,Office Chair,IKEA,Delhi,33,10,2447,29119.3,4649.3
+ORD0460,3/31/2024,Priya Singh,North,Furniture,Table,Wooden Table,IKEA,Kolkata,59,10,24960,297024,47424
+ORD0461,6/24/2024,Anjali Mehta,East,Electronics,Laptop,Laptop Dell,Croma,Delhi,54,2,233366,569413.04,102681.04
+ORD0462,12/25/2024,Rohit Das,West,Furniture,Table,Wooden Table,IKEA,Bangalore,65,10,18390,218841,34941
+ORD0463,10/8/2024,Amit Sharma,West,Electronics,Mobile,iPhone,Croma,Mumbai,18,2,149870,365682.8,65942.8
+ORD0464,2/25/2024,Priya Singh,East,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,73,4,500,2300,300
+ORD0465,2/28/2024,Priya Singh,South,Electronics,Mobile,iPhone,Reliance Digital,Mumbai,49,20,139030,3392332,611732
+ORD0466,6/7/2024,Anjali Mehta,North,Clothing,Women Wear,Jeans,Pantaloons,Bangalore,33,19,2662,58164.7,7586.7
+ORD0467,4/15/2024,Rohit Das,South,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,92,19,35687,827224.66,149171.66
+ORD0468,8/14/2024,Rahul Verma,East,Clothing,Women Wear,Jeans,Big Bazaar,Delhi,53,15,2358,40675.5,5305.5
+ORD0469,6/11/2024,Rahul Verma,West,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,14,6,800,5520,720
+ORD0470,6/16/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Croma,Kolkata,66,6,471500,3451380,622380
+ORD0471,4/15/2024,Neha Gupta,North,Electronics,Mobile,iPhone,Croma,Mumbai,33,6,87500,640500,115500
+ORD0472,5/22/2024,Amit Sharma,North,Furniture,Table,Wooden Table,IKEA,Kolkata,83,5,56660,337127,53827
+ORD0473,7/2/2024,Neha Gupta,South,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,58,11,211700,2841014,512314
+ORD0474,9/19/2024,Anjali Mehta,North,Furniture,Chair,Office Chair,IKEA,Bangalore,77,13,4668,72213.96,11529.96
+ORD0475,7/29/2024,Amit Sharma,West,Electronics,Laptop,Laptop Dell,Croma,Kolkata,1,9,486100,5337378,962478
+ORD0476,6/29/2024,Rahul Verma,North,Clothing,Men Wear,T-shirt,Big Bazaar,Bangalore,76,8,600,5520,720
+ORD0477,7/30/2024,Rahul Verma,West,Electronics,Laptop,Laptop Dell,Croma,Kolkata,90,17,430100,8920274,1608574
+ORD0478,1/9/2024,Anjali Mehta,South,Electronics,Laptop,Laptop Dell,Croma,Bangalore,75,17,221100,4585614,826914
+ORD0479,6/4/2024,Rohit Das,West,Furniture,Chair,Office Chair,IKEA,Bangalore,55,14,3639,60625.74,9679.74
+ORD0480,8/4/2024,Amit Sharma,West,Electronics,Laptop,Laptop Dell,Croma,Mumbai,41,17,233355,4839782.7,872747.7
+ORD0481,10/31/2024,Priya Singh,North,Electronics,Laptop,Laptop Dell,Croma,Delhi,13,5,262705,1602500.5,288975.5
+ORD0482,5/17/2024,Anjali Mehta,West,Furniture,Table,Wooden Table,IKEA,Hyderabad,51,18,22340,478522.8,76402.8
+ORD0483,5/23/2024,Rahul Verma,East,Furniture,Chair,Office Chair,IKEA,Bangalore,65,14,1700,28322,4522
+ORD0484,8/20/2024,Anjali Mehta,North,Clothing,Women Wear,Jeans,Pantaloons,Hyderabad,12,2,1313,3019.9,393.9
+ORD0485,7/8/2024,Neha Gupta,South,Furniture,Table,Wooden Table,IKEA,Bangalore,72,7,40140,334366.2,53386.2
+ORD0486,12/8/2024,Rohit Das,North,Electronics,Laptop,Laptop Dell,Croma,Mumbai,91,3,242105,886104.3,159789.3
+ORD0487,1/19/2024,Neha Gupta,North,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,99,10,1875,21562.5,2812.5
+ORD0488,11/22/2024,Priya Singh,East,Electronics,Laptop,Laptop Dell,Croma,Hyderabad,89,11,321930,4320300.6,779070.6
+ORD0489,11/2/2024,Rahul Verma,West,Electronics,Accessories,Samsung TV,Reliance Digital,Mumbai,18,10,227000,2769400,499400
+ORD0490,3/22/2024,Rohit Das,East,Furniture,Table,Wooden Table,IKEA,Hyderabad,6,14,34080,567772.8,90652.8
+ORD0491,6/1/2024,Rahul Verma,West,Furniture,Chair,Office Chair,IKEA,Mumbai,7,3,2350,8389.5,1339.5
+ORD0492,10/26/2024,Neha Gupta,North,Electronics,Laptop,Laptop Dell,Croma,Bangalore,35,7,357600,3053904,550704
+ORD0493,4/14/2024,Amit Sharma,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Hyderabad,63,3,494700,1810602,326502
+ORD0494,2/24/2024,Rohit Das,East,Electronics,Laptop,Laptop Dell,Reliance Digital,Kolkata,51,4,26950,131516,23716
+ORD0495,12/6/2024,Neha Gupta,East,Clothing,Women Wear,Jeans,Big Bazaar,Mumbai,93,4,3788,17424.8,2272.8
+ORD0496,5/30/2024,Rohit Das,West,Furniture,Chair,Office Chair,IKEA,Kolkata,91,8,1227,11681.04,1865.04
+ORD0497,9/27/2024,Rahul Verma,South,Electronics,Accessories,Samsung TV,Reliance Digital,Kolkata,80,10,309600,3777120,681120
+ORD0498,1/30/2024,Neha Gupta,South,Electronics,Accessories,Samsung TV,Reliance Digital,Hyderabad,22,4,142200,693936,125136
+ORD0499,10/26/2024,Anjali Mehta,East,Furniture,Chair,Office Chair,IKEA,Kolkata,63,6,3648,26046.72,4158.72
+ORD0500,11/11/2024,Rohit Das,West,Electronics,Laptop,Laptop Dell,Reliance Digital,Mumbai,76,4,478300,2334104,420904
